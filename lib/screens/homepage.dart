@@ -254,7 +254,7 @@ class _HomePageState extends State<HomePage> {
                   Padding(
                     padding: const EdgeInsets.only(left: 15, top: 6),
                     child: Text(
-                      'All devices',
+                      'Connected devices',
                       style: GoogleFonts.lato(
                         fontSize: sizing.width*.04,
                         fontWeight: FontWeight.w400,
@@ -267,7 +267,7 @@ class _HomePageState extends State<HomePage> {
                     child: GestureDetector(
                       onTap: (){
                         //TODO
-                        print('Tapped');
+                        print('I got tapped');
                       },
                       child: FaIcon(
                         FontAwesomeIcons.longArrowAltRight,
@@ -290,7 +290,7 @@ class _HomePageState extends State<HomePage> {
                         color: Color(0xff90B8F8),
                       ),
                       'Fan',
-                      'Consumes 5kWh',
+                      'Consumes 4kWh',
                       IconButton(
                         icon: ac
                             ? FaIcon(
