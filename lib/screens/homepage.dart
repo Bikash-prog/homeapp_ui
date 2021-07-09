@@ -172,7 +172,7 @@ class _HomePageState extends State<HomePage> {
                               ),
                               Text(
                                 '10Km/h',
-                                style: GoogleFonts.bellefair(
+                                style: GoogleFonts.lato(
                                   fontSize: sizing.width*.055,
                                   fontWeight: FontWeight.w500,
                                   color: Color(0xffEAE7AF),
@@ -180,7 +180,7 @@ class _HomePageState extends State<HomePage> {
                               ),
                               Text(
                                 'Wind',
-                                style: GoogleFonts.bellefair(
+                                style: GoogleFonts.lato(
                                   fontSize: sizing.width*.055,
                                   fontWeight: FontWeight.w500,
                                   color: Color(0xffEAE7AF),
@@ -198,8 +198,8 @@ class _HomePageState extends State<HomePage> {
                                 size: sizing.width*.06,
                               ),
                               Text(
-                                '  90%',
-                                style: GoogleFonts.bellefair(
+                                '  95%',
+                                style: GoogleFonts.lato(
                                   fontSize:sizing.width*.055,
                                   fontWeight: FontWeight.w500,
                                   color: Color(0xffEAE7AF),
@@ -207,7 +207,7 @@ class _HomePageState extends State<HomePage> {
                               ),
                               Text(
                                 'Humidity',
-                                style: GoogleFonts.bellefair(
+                                style: GoogleFonts.lato(
                                   fontSize: sizing.width*.055,
                                   fontWeight: FontWeight.w500,
                                   color: Color(0xffEAE7AF),
@@ -226,7 +226,7 @@ class _HomePageState extends State<HomePage> {
                               ),
                               Text(
                                 '20%',
-                                style: GoogleFonts.bellefair(
+                                style: GoogleFonts.lato(
                                   fontSize: sizing.width*.055,
                                   fontWeight: FontWeight.w500,
                                   color: Color(0xffEAE7AF),
@@ -234,7 +234,7 @@ class _HomePageState extends State<HomePage> {
                               ),
                               Text(
                                 'Percipitation',
-                                style: GoogleFonts.bellefair(
+                                style: GoogleFonts.lato(
                                   fontSize: sizing.width*.055,
                                   fontWeight: FontWeight.w500,
                                   color: Color(0xffEAE7AF),
