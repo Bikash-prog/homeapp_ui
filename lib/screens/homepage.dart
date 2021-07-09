@@ -267,7 +267,7 @@ class _HomePageState extends State<HomePage> {
                     child: GestureDetector(
                       onTap: (){
                         //TODO
-                        print('I got tapped');
+                        print('tapped');
                       },
                       child: FaIcon(
                         FontAwesomeIcons.longArrowAltRight,
