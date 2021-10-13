@@ -112,7 +112,7 @@ class _HomePageState extends State<HomePage> {
                                             ),
                                           ),
                                           TextSpan(
-                                            text: '| F',
+                                            text: '|F',
                                             style: GoogleFonts.ubuntu(
                                               fontSize: sizing.width*.055,
                                               fontWeight: FontWeight.w500,
